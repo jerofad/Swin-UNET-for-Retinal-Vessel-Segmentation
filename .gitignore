@@ -1,6 +1,7 @@
 # datasets
 datasets/*
 
+.DS_Store
 #results
 output/log/*
 output/*.txt
